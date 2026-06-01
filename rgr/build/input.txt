@@ -1,0 +1,7 @@
+Programming in Clean C code gives you total control over memory!
+Memory, memory, and once again memory! Efficient memory management is key.
+
+Test-Driven Development (TDD) helps write high-quality code in C.
+High-quality code is easy to read, easy to maintain, and easy to test.
+
+C is the language of professionals. Learn C, write code, and build great programs!

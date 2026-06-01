@@ -1,0 +1,4 @@
+/home/vadim/proga/rgr/build/CMakeFiles/analyzer_app.dir
+/home/vadim/proga/rgr/build/CMakeFiles/unit_tests.dir
+/home/vadim/proga/rgr/build/CMakeFiles/edit_cache.dir
+/home/vadim/proga/rgr/build/CMakeFiles/rebuild_cache.dir

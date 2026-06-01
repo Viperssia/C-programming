@@ -1,11 +1,11 @@
-// ex7_mutex_sync.c
+
 #include <stdio.h>
 #include <pthread.h>
 #include <unistd.h>
 
 pthread_mutex_t mutex = PTHREAD_MUTEX_INITIALIZER;
 pthread_cond_t cond = PTHREAD_COND_INITIALIZER;
-int turn = 0; // 0 - parent, 1 - child
+int turn = 0; 
 
 void* child_thread(void* arg) {
     for(int i = 1; i <= 5; i++) {

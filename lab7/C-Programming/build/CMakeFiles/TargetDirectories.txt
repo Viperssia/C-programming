@@ -1,0 +1,3 @@
+/home/vadim/proga/lab7/C-Programming/build/CMakeFiles/paint.dir
+/home/vadim/proga/lab7/C-Programming/build/CMakeFiles/edit_cache.dir
+/home/vadim/proga/lab7/C-Programming/build/CMakeFiles/rebuild_cache.dir
